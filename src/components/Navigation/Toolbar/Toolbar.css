@@ -22,11 +22,12 @@
 
 .Logo {
     height: 80%;
+    background-color: #7AC5CD;
+border-radius: 5px;
 }
 
-
-@media (max-width: 499px){
-    .DesktopOnly{
+@media(max-width: 499px){
+    .DesctopOnly{
         display: none;
     }
 }
